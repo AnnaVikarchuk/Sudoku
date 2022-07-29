@@ -8,4 +8,6 @@ thgh
 //56
 //11
 //22
+//2
+//2
 module.exports = Model
