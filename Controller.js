@@ -23,11 +23,7 @@ class Controller {
 
 
 
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> f67690648dcc97d73811a0fbc7cd61cc1b0b9096
   }
 
   
